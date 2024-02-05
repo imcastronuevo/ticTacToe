@@ -1,4 +1,5 @@
-Tic Tac Toe Game
+-Tic Tac Toe Game-
+
 This repository contains a simple implementation of a Tic Tac Toe game using HTML, CSS, and JavaScript. The game provides a grid-based board with player interaction, win detection, and a reset option.
 
 Table of Contents
